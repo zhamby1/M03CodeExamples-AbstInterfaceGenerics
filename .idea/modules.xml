@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractClassesIntro/AbstractClassesIntro.iml" filepath="$PROJECT_DIR$/AbstractClassesIntro/AbstractClassesIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M03CodeExamples-AbstInterfaceGenerics.iml" filepath="$PROJECT_DIR$/M03CodeExamples-AbstInterfaceGenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RealWorldExample/RealWorldExample.iml" filepath="$PROJECT_DIR$/RealWorldExample/RealWorldExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface-intro/interface-intro.iml" filepath="$PROJECT_DIR$/interface-intro/interface-intro.iml" />
+    </modules>
+  </component>
+</project>
